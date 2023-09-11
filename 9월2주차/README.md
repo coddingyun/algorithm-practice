@@ -3,8 +3,8 @@
 ***❗️❗️파이팅❗️❗️***
 |    이름        |          월          |        화         |        수         |        목         |         금    |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
-|    임가윤        |           [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/9월2주차/0911/gy.py)         |                 |                 |                 |             |
-|    정찬호        |          [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/9월2주차/0911/chjung.py)          |                 |                 |                 |             |
+|    임가윤        |           [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/gy.py)         |                 |                 |                 |             |
+|    정찬호        |          [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/chjung.py)          |                 |                 |                 |             |
 <br>
 
 
