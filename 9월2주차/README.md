@@ -8,7 +8,7 @@
 
 |    이름        |          월          |        화         |        수         |        목         |         금    |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
-|    임가윤        |           []()         |                 |                 |                 |             |
+|    임가윤        |           [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/gayun.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/gayun.md)         |                 |                 |                 |             |
 |    정찬호        |          [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/chjung.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/chjung.md)             |                 |                 |                 |             |
 <br>
 
