@@ -1,15 +1,21 @@
 # Graph Traversal (그래프 탐색)
 
 ***❗️❗️파이팅❗️❗️***
-|    이름        |          월          |        화         |        수         |        목         |         금    |
+|    1주차        |          월          |        화         |        수         |        목         |         금    |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
 |    임가윤        |           [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/gy.py) , [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/gy.md)         |                 |                 |                 |             |
 |    정찬호        |          [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/chjung.py) , [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0911/chjung.md)            |                 |                 |                 |             |
 
-|    이름        |          월          |        화         |        수         |        목         |         금    |
+|    2주차        |          월          |        화         |        수         |        목         |         금    |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
 |    임가윤        |           [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/gayun.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/gayun.md)         |                 |                 |                 |             |
 |    정찬호        |          [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/chjung.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0918/chjung.md)             |                 |                 |                 |             |
+
+|    3주차        |          월          |        화         |        수         |        목         |         금    |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | 
+|    임가윤        |                    |         [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0926/gayun.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0926/gayun.md)        |                 |                 |             |
+|    정찬호        |                       |       [성공](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0926/chjung.py), [풀이](https://github.com/CODING-TEST-PYTHON/SOMA_ALGO/blob/main/9%EC%9B%942%EC%A3%BC%EC%B0%A8/0926/chjung.md)          |                 |                 |             |
+
 <br>
 
 
