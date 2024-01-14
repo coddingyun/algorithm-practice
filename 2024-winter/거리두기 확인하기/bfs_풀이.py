@@ -15,15 +15,15 @@ def check(graph, x, y):
         for i in range(4):
             nx = cx + dx[i]
             ny = cy + dy[i]
-            if 0<=nx<5 and 0<=ny<5 and visited[nx][ny] == False:
-                if graph[nx][ny] == 'X':
+            if 0<=nx<5 and 0<=ny<5 and visited[nx][ny] == False: # nx, ny 범위 설정 주의
+                if graph[nx][ny] == 'X': # 파티션이 있으면 더이상 움직일 수 없음
                     visited[nx][ny] = True
                     continue
                 elif graph[nx][ny] == 'P':
-                    if distance[cx][cy] <=1:
+                    if distance[cx][cy] <=1: # distance[nx][ny] = distance[cx][cy]+1 이기 때문에
                         return False
                 q.append((nx, ny))
-                visited[nx][ny] = True
+                visited[nx][ny] = True 
                 distance[nx][ny] = distance[cx][cy]+1
     return True
 
@@ -32,7 +32,7 @@ def solution(places):
     for place in places:
         flag = True
         for i in range(5):
-            if flag == False:
+            if flag == False: # flag를 쓰고 싶지 않다면, check 함수에 이중 for문을 넣고 바로 return
                 break
             for j in range(5):
                 if place[i][j] == 'P':
